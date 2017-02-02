@@ -18,4 +18,5 @@ Performance Improvement
   To handle large volume of data , Apache spark can be used to maintain the Life time value of customer
   
   Data can be saved in in-memory table or Hive table , query the data for Visualization
-
+  
+  
