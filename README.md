@@ -30,4 +30,6 @@ Performance Improvement
   
     Data can be saved in in-memory table or Hive table , query the data for Visualization
   
+ 
+ P.S : LTV output of top N customer some has same values because of cooked up data
   
