@@ -22,7 +22,7 @@ Architecture
   
     LTV of Customer per week has site visit count per week, amount ordered per week ,total amount and total site counts per year,LTV
   
-  Customer Information can be correlated with Customer key and used for visualization purpose or to do exploratory analytics
+     Customer Information can be correlated with Customer key and used for visualization purpose or to do exploratory analytics
   
 Performance Improvement
 
