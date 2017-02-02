@@ -1,22 +1,33 @@
 # ShutterflycodeChallenge
 
 Assumption --
-  All the input data comes as JSON Array
+     
+     All the input data comes as JSON Array
 
-Out of order Handling
+Implemented Functions
 
-Date Time format handling
+    Out of order Handling
 
-Base Data of LTV for all customers calculated and stored in Map- For further Analysis
+    Date Time format handling
+
+    Base Data of LTV for all customers calculated and stored in Map- For further Analysis
 
 Dependency
 
-  Used Org.json for JSON parsing
+    Used Org.json for JSON parsing
+  
+Architecture
+  
+    Two Hashmap are used to store the LTV of Customer per week and Customer Information
+  
+    LTV of Customer per week has site visit count per week, amount ordered per week ,total amount and total site counts per year,LTV
+  
+  Customer Information can be correlated with Customer key and used for visualization purpose or to do exploratory analytics
   
 Performance Improvement
 
-  To handle large volume of data , Apache spark can be used to maintain the Life time value of customer
+    To handle large volume of data , Apache spark can be used to maintain the Life time value of customer
   
-  Data can be saved in in-memory table or Hive table , query the data for Visualization
+    Data can be saved in in-memory table or Hive table , query the data for Visualization
   
   
