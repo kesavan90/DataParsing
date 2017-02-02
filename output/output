@@ -1,1 +1,23 @@
-
+Enter the value for top x customers with the highest Simple Lifetime Value : 
+20
+Top 20 customers with the highest Simple Lifetime Value from data
+CustomerKey_2EF1A58BFEC05460_Year_2004_week_19 LifeTimeValue : 22807.199999999997
+CustomerKey_A0310B4906FD42B5_Year_2009_week_39 LifeTimeValue : 22807.199999999997
+CustomerKey_F839E072903BDF16_Year_2008_week_28 LifeTimeValue : 22807.199999999997
+CustomerKey_D9771B4D9341856F_Year_2004_week_16 LifeTimeValue : 22807.199999999997
+CustomerKey_02E8C9599DF2726A_Year_2007_week_32 LifeTimeValue : 22807.199999999997
+CustomerKey_70C44914AF125665_Year_2000_week_43 LifeTimeValue : 22807.199999999997
+CustomerKey_785FECFD8F9257BB_Year_2003_week_24 LifeTimeValue : 22807.199999999997
+CustomerKey_CFBC45409F3E6D80_Year_2003_week_20 LifeTimeValue : 22807.199999999997
+CustomerKey_BF8D97F1CBF02CE7_Year_2003_week_16 LifeTimeValue : 22807.199999999997
+CustomerKey_DEDFF6128A9FE5A3_Year_2001_week_47 LifeTimeValue : 22807.199999999997
+CustomerKey_EE223D5317454DD9_Year_2009_week_21 LifeTimeValue : 22807.199999999997
+CustomerKey_168FE3DD42C04482_Year_2004_week_48 LifeTimeValue : 22807.199999999997
+CustomerKey_717E3162E9ACFEE3_Year_2006_week_2 LifeTimeValue : 22807.199999999997
+CustomerKey_94542ACFC144096F_Year_2007_week_22 LifeTimeValue : 22807.199999999997
+CustomerKey_95E7A51714E56394_Year_2005_week_14 LifeTimeValue : 22807.199999999997
+CustomerKey_EC23BB4C1A0B626B_Year_2005_week_1 LifeTimeValue : 22807.199999999997
+CustomerKey_0C06EED633AC306D_Year_2005_week_48 LifeTimeValue : 22807.199999999997
+CustomerKey_48D7A95A31A52761_Year_2001_week_42 LifeTimeValue : 22807.199999999997
+CustomerKey_FE5DF77BF92C3735_Year_2008_week_19 LifeTimeValue : 22807.199999999997
+CustomerKey_EC23BB4C1A0B626B_Year_2008_week_9 LifeTimeValue : 22123.4
