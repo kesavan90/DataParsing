@@ -1,1 +1,36 @@
-
+[{
+	"last_name": "Smith",
+	"event_time": "2009-02-17:17:23:16.020Z",
+	"verb": "NEW",
+	"key": "70C44914AF125665",
+	"adr_state": "AK",
+	"adr_city": "Middletown",
+	"type": "CUSTOMER"
+},
+{
+	"event_time": "2009-02-17:17:31:21.788Z",
+	"tags": {
+		"some key": "some value"
+	},
+	"verb": "NEW",
+	"key": "ac05e815502f",
+	"customer_id": "70C44914AF125665",
+	"type": "SITE_VISIT"
+},
+{
+	"camera_make": "Canon",
+	"event_time": "2009-02-17:17:56:19.928Z",
+	"camera_model": "EOS 80D",
+	"verb": "UPLOAD",
+	"key": "d8ede43b1d9f",
+	"customer_id": "70C44914AF125665",
+	"type": "IMAGE"
+},
+{
+	"total_amount": "30.004 USD",
+	"event_time": "2009-02-17:17:44:16.866Z",
+	"verb": "NEW",
+	"key": "68d84e5d1a43",
+	"customer_id": "70C44914AF125665",
+	"type": "ORDER"
+}]
